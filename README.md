@@ -37,8 +37,8 @@ python src/analysis.py
 
 - Dataset: 550 orders, total revenue **523,572 BDT**.
 - Top cuisine by revenue: **Biryani**.
-- Slowest delivery area: **Mirpur** (44.8 minutes on average).
-- Correlation between delivery time and rating: **-0.45** (slower delivery, lower rating).
+- Slowest delivery area: **Mirpur** (55.9 minutes on average).
+- Correlation between delivery time and rating: **-0.43** (slower delivery, lower rating).
 - Average order value on weekends: **968 BDT** vs weekdays **946 BDT**.
 
 
